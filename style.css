@@ -1,0 +1,116 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.Avenue-home-background {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-bg.png');
+    height: 100vh;
+    background-size: cover;
+}
+
+.home-card-container {
+    background-color: #ffffff;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    padding: 20px;
+    text-align: center;
+}
+
+.home-head {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    padding: 10px;
+}
+
+.home-line {
+    color: #7b8794;
+    font-family: "Bree Serif";
+    font-size: 10px;
+}
+
+.button-style {
+    background-color: #f19116;
+    color: #ffffff;
+    font-size: 10px;
+    margin: 10px;
+    width: 80px;
+}
+
+.details-bg {
+    background-color: #222222;
+    height: 100vh;
+    background-size: cover;
+}
+
+.flats-list-cards {
+    background-color: #ffffff;
+    border-radius: 8px;
+    height: 130px;
+    margin: 5px;
+    text-align: left;
+}
+
+.list-head {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 18px;
+    padding: 10px;
+}
+
+.card-img {
+    width: 90px;
+}
+
+.flat-type {
+    color: #0f0e46;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    margin-left: 10px;
+    padding: 6px;
+    font-weight: bold;
+}
+
+.flat-description {
+    color: #6c6b70;
+    font-family: "Bree Serif";
+    font-size: 11px;
+    padding: 5px;
+    margin-left: 10px;
+}
+
+.flat-img-3bhk {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-d1-img.png');
+    height: 40vh;
+    background-size: cover;
+}
+
+.flat-detail-description {
+    color: #ffffff;
+    font-family: "Bree Serif";
+    font-size: 12px;
+    padding: 8px;
+    margin-left: 10px;
+}
+
+.location-icon {
+    height: 25px;
+    margin-left: 15px;
+}
+
+.detail-head {
+    color: #f19116;
+    font-family: "Bree Serif";
+    font-size: 20px;
+    padding: 10px;
+}
+
+.flat-img-2bhk {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-d2-img.png');
+    height: 40vh;
+    background-size: cover;
+}
+
+.flat-img-4bhk {
+    background-image: url('https://assets.ccbp.in/frontend/static-website/flats-list-d3-img.png');
+    height: 40vh;
+    background-size: cover;
+}
