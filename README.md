@@ -1,4 +1,4 @@
-🏢 Sunrise Avenue – Apartment Booking Website : file:///C:/Users/user/OneDrive/Desktop/flatProj/index.html
+🏢 Sunrise Avenue – Apartment Booking Website : 
 
 Sunrise Avenue is a responsive static website that showcases a residential apartment booking interface. The project includes multiple flat options with detailed views and smooth navigation between sections.
 
